@@ -1,4 +1,4 @@
- # 📊 CUSTOMER SHOPPING DATA ANALYSIS REPORT
+ # 📊 CUSTOMER SHOPPING DATA ANALYSIS PROJECT
 > This project presents an analysis of customer shopping behavior based on transactional data. The objective is to clean, analyze, and visualize the dataset to uncover meaningful insights that can support business decision-making.
 The analysis focuses on identifying sales trends, customer preferences, and factors influencing revenue generation.
 ***
