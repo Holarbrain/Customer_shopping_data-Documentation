@@ -97,7 +97,6 @@ customer-shopping-analysis/
 │
 ├── reports/                  
 │   ├── customer_shopping_report.docx
-│   ├── customer_shopping_report.pdf
 │   └── customer_shopping_presentation.pptx
 │        # Final project documentation and presentation
 │
